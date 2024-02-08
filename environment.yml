@@ -1,0 +1,11 @@
+name: quadratic-polynomials-py-da
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8  # Specify your Python version
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+      # Include any pip-only packages here
